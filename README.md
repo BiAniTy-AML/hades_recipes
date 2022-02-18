@@ -1,0 +1,2 @@
+# hades_recipes
+RECIPES
