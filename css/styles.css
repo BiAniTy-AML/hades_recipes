@@ -39,3 +39,42 @@ a {
     transform: rotate(-90deg);
     height: 100vh;
 }
+
+section {
+    font-size: 1.2em;
+}
+
+section .header {
+    font-size: 3em;
+    background: rgb(88, 85, 85);
+}
+
+section li {
+    color: pink;
+    margin: 10px 0;
+}
+
+section ul {
+    font-size: 1.2em;
+}
+
+section .indication {
+    font-size: 2em;
+    color: cyan;
+}
+
+section.center {
+    margin: 10px 0;
+    padding: 10px 0;
+}
+
+.list_items {
+    width: 50vw;
+    margin: auto;
+    text-align: left;
+    width: 250px;
+}
+
+.center ol .list_items {
+    width: 80%;
+}
