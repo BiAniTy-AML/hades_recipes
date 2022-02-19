@@ -1,6 +1,13 @@
 * {
     margin: 0;
     padding: 0;
+    background: rgb(0, 0, 0);
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
 }
 
 .center {
@@ -9,4 +16,26 @@
 
 .below_title {
     margin-top: 2em;
+}
+
+.title {
+    color: pink;
+    font-size: 4em;
+}
+
+.center.below_title li {
+    font-size: 2em;
+}
+
+.small_img {
+    width: 70vh;
+}
+
+.div_img {
+    margin: 10px 0;
+}
+
+.portrait_left {
+    transform: rotate(-90deg);
+    height: 100vh;
 }
